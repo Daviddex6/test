@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+.Home{
+display: flex;
+justify-content: end;
+background-color: bisque;
+align-items: center;
+position: relative;
+padding: 15px;
+overflow: hidden;
+}
+.Home img{
+width: 100px;
+height: auto;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+.links{
+    background-color: yellow;
+}
+ ul{
+    list-style-type: none;
+
+ }
+ul li a{
+    text-decoration: none;
+
+}
+ul li{
+    display: inline-flex;
+ padding-left: 15pc;
+    
+}
+
